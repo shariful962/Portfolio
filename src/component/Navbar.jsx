@@ -7,7 +7,7 @@ const Navbar = () => {
         <div>
             <h1 className='text-2xl font-bold hidden md:inline'>Sharif</h1>
         </div>
-        <div>
+        <div className='hidden md:inline'>
             <ul className='flex space-x-8'>
                 <li><a className='hover:text-gray-400 text-lg' href="#home">Home</a></li>
                 <li><a className='hover:text-gray-400 text-lg' href="#about">About Me</a></li>
