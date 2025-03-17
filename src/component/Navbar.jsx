@@ -11,9 +11,9 @@ const Navbar = () => {
             <ul className='flex space-x-8'>
                 <li><a className='hover:text-gray-400 text-lg' href="#home">Home</a></li>
                 <li><a className='hover:text-gray-400 text-lg' href="#about">About Me</a></li>
-                <li><a className='hover:text-gray-400 text-lg' href="#sevices">Services</a></li>
-                <li><a className='hover:text-gray-400 text-lg' href="projects">Projects</a></li>
-                <li><a className='hover:text-gray-400 text-lg' href="contact">Contacts</a></li>
+                <li><a className='hover:text-gray-400 text-lg' href="#services">Services</a></li>
+                <li><a className='hover:text-gray-400 text-lg' href="#projects">Projects</a></li>
+                <li><a className='hover:text-gray-400 text-lg' href="#contact">Contacts</a></li>
             </ul>
 
         </div>
